@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VkServices</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_vk">Проекты VK</string>
+    <string name="exampleURL">https://vk.com/</string>
+    <string name="ExampleNameService">Вконтакте</string>
+    <string name="ExampleDescriptionService">Самая популярная соцсеть и первое суперприложение в Роcсии</string>
+    <string name="button_reply">button reply</string>
+    <string name="image_service">image service</string>
+</resources>
